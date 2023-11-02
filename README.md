@@ -24,8 +24,8 @@
     </div>
      <p><strong>DVCS</strong></p>
     <div>    
-        <img src="https://img.shields.io/badge/Bitbucket-#0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white" /> <!-- bitbucket -->
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" /> <!-- git -->
+        <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white" /> <!-- bitbucket -->
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /> <!-- github -->
         <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" /> <!-- gitlab -->
     </div>
     <p><strong>Tools</strong></p>
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" /> <!-- grafana -->
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" /> <!-- prometheus -->
         <!-- search? -->
-        <img src="https://img.shields.io/badge/OpenSearch-#005EB8?style=for-the-badge&logo=OpenSearch&logoColor=white" /> <!-- openssearch -->
+        <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=OpenSearch&logoColor=white" /> <!-- openssearch -->
         <!-- back end-->
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/> <!-- go -->
         <!-- front end-->
