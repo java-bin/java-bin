@@ -5,7 +5,10 @@
 <!-- 스킬 -->
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>Using <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> </strong></p> <!-- IntelliJ -->
+    <p><strong>Using </strong></p> 
+    <div>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <!-- IntelliJ -->
+    </div>
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <!-- java -->
