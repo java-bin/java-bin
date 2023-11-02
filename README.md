@@ -63,6 +63,7 @@
         <div>    
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <!-- figma -->
             <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> <!-- jira -->
+            <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" /> <!-- slack -->
         </div>
     </p> 
     <p>
