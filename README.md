@@ -9,13 +9,11 @@
     <div>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <!-- IntelliJ -->
     </div>
-    <p><strong>Backend</strong></p>
+    <p><strong>Back-End Developer Main Skills</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <!-- java -->
-    </div>
-    <p><strong>Framwork</strong></p>
-    <div>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <!-- spring boot -->
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> <!-- docekr -->
     </div>
     <p><strong>Database</strong></p>
     <div>
@@ -25,7 +23,6 @@
     </div>
     <p><strong>Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> <!-- docekr -->
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <!-- kubernetes -->
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" /> <!-- terraform -->
     </div>
