@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <!-- ubuntu --> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /> <!-- apache tomcat -->
     </div>
-    <p><strong>DVCS</strong></p>
+    <p><strong>DVCS</strong></p>
     <div>    
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <!-- git -->
     </div>
