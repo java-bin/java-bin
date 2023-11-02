@@ -5,17 +5,21 @@
 <!-- 스킬 -->
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>Using </strong></p> 
-    <div>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <!-- IntelliJ -->
-    </div>
-    <p><strong>Back-End Developer Main Skills</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <!-- java -->
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <!-- spring boot -->
-        <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white" /> <!-- openstack -->
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> <!-- docekr -->
-    </div>
+    <p>
+        <strong>Using </strong>
+        <div>
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <!-- IntelliJ -->
+        </div>
+    </p> 
+    <p>
+        <strong>Back-End Developer Main Skills</strong>
+        <div>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <!-- java -->
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <!-- spring boot -->
+            <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white" /> <!-- openstack -->
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> <!-- docekr -->
+        </div>
+    </p>
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/> <!-- mariadb -->
