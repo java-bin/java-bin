@@ -13,7 +13,7 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <!-- java -->
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <!-- spring boot -->
-        <img src="https://img.shields.io/badge/openstack-#ED1944?style=for-the-badge&logo=openstack&logoColor=white" /> <!-- openstack -->
+        <img src="https://img.shields.io/badge/openstack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" /> <!-- openstack -->
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> <!-- docekr -->
     </div>
     <p><strong>Database</strong></p>
